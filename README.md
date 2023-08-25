@@ -1,4 +1,4 @@
-#Repositório para o projeto de  IA376 - Deep Learning aplicado em sinais de EEG
+# Repositório para o projeto de  IA376 - Deep Learning aplicado em sinais de EEG
 
 # Referênciais
 
