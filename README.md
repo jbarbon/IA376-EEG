@@ -1,5 +1,12 @@
 # Repositório para o projeto de  IA376 - Deep Learning aplicado em sinais de EEG
 
+# Tutorial - Como usar git/github
+
+- Tutorial com códigos -> (https://githowto.com/)
+- Tutorial no YouTube -> (https://youtu.be/3RjQznt-8kE?si=awzuTqYfzZdM7xHZ)
+- Tutorial prático de como usar git -> (https://learngitbranching.js.org/)
+- Um jogo que ensina git -> (https://ohmygit.org/)
+
 # Referênciais
 
 - Tese Sarah Negreiros de Carvalho Leite - Contribuições ao desenvolvimento de interfaces cérebro-computador baseadas em potenciais evocados visualmente em regime estacionário
