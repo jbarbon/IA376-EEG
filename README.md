@@ -31,22 +31,29 @@ oferecida no segundo semestre de 2023, na Unicamp, sob supervisão da Profa. Dra
 ## Cronograma
 > Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
 
+|                                       | Setembro     |             | Outubro     |             | Novembro    |             |
+|:-------------------------------------:|:------------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| **Atividades**                            | 1ª quinzena  | 2ª quinzena | 1ª quinzena | 2ª quinzena | 1ª quinzena | 2ª quinzena |
+| **Primeira Entrega**                    | ✔            |             |             |             |             |             |
+| Definição do tema                     | ✔            |             |             |             |             |             |
+| Levantamento bibliográfico            | ✔            |             |             |             |             |             |
+| Escolha da base de dados              |✔            |             |             |             |             |             |
+| Escrita da proposta de projeto        | ✔            |             |             |             |             |             |
+| **Segunda Entrega**                   |              |             |             |             |             |             |
+| Pré-processamento dos dados           |              | X           |             |             |             |             |
+| Levantamento bibliográfico           |              | X           |             |             |             |             |
+| Reprodução dos resultados do artigo   |              |             | X           | X           |             |             |
+| Avaliação dos resultados preliminares |              |             |             | X           |             |             |
+| **Entrega Final**                         |              |             |             |             |             |             |
+| Consolidação da síntese dos dados     |              |             |             |             | X           |             |
+| Resultado das métricas de avaliação   |              |             |             |             | X           | X           |
+| Escrita final do projeto              |              |             |             |             |             | X           |
+
+
 ## Referências Bibliográficas
 > Apontar nesta seção as referências bibliográficas adotadas no projeto.
 
-
------------------------------------------------------------------------------------------------------------------
-
-# Repositório para o projeto de  IA376 - Deep Learning aplicado em sinais de EEG
-
-# Tutorial - Como usar git/github
-
-- Tutorial com códigos -> (https://githowto.com/)
-- Tutorial no YouTube -> (https://youtu.be/3RjQznt-8kE?si=awzuTqYfzZdM7xHZ)
-- Tutorial prático de como usar git -> (https://learngitbranching.js.org/)
-- Um jogo que ensina git -> (https://ohmygit.org/)
-
-# Referênciais
+## Referênciais
 
 - Tese Sarah Negreiros de Carvalho Leite - Contribuições ao desenvolvimento de interfaces cérebro-computador baseadas em potenciais evocados visualmente em regime estacionário
 
@@ -60,7 +67,6 @@ Git: (https://github.com/AutoResearch/EEG-GAN)
 - EEG data augmentation for emotion recognition with a multiple generator conditional Wasserstein GAN
 
 Paper: (https://link.springer.com/article/10.1007/s40747-021-00336-7)
-
 
 - EEG-GAN: Generative adversarial networks for electroencephalograhic (EEG) brain signals
 
