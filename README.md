@@ -1,3 +1,43 @@
+# `<Estudo de Caso: Síntese de Sinais de EEG para Imagética Motora>`
+# `<Signal synthesis for eeg motor imagery>`
+
+## Apresentação
+
+O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação *IA376L - Deep Learning aplicado a Síntese de Sinais*, 
+oferecida no segundo semestre de 2023, na Unicamp, sob supervisão da Profa. Dra. Paula Dornhofer Paro Costa, do Departamento de Engenharia de Computação e Automação (DCA) da Faculdade de Engenharia Elétrica e de Computação (FEEC).
+
+> |Nome  | RA | Especialização|
+> |--|--|--|
+> | Joany Rodrigues  | 264440  | Eng. de Computação|
+> | João Guilherme Prado Barbon  | 262760  | Eng. Físico|
+> | Larissa Rangel de Azevedo  | 247008  | Eng. Eletricista|
+
+## Descrição Resumida do Projeto
+  Este projeto tem como objetivo sintetizar dados de eletroencefalografia (EEG) para uma interface cérebro-computador (BCI) utilizando o paradigma de imagética motora. A principal motivação da implementação de uma BCI é o estudo e a compreensão do cérebro, abrindo portas para aplicações na área da saúde e entretenimento. A abordagem do paradigma da imagética motora ocorre pela aquisição dos sinais cerebrais gerados pela imaginação ou realização do movimento de partes do corpo, como membros superiores (braços) ou inferiores (pernas). Assim, os dados sintéticos serão gerados a partir de uma Rede Generativa Adversária (GAN), que apresentará como saída séries temporais representativas dos sinais reais de EEG.  
+
+> Incluir nessa seção link para vídeo de apresentação da proposta do projeto (máximo 5 minutos).
+
+## Metodologia Proposta
+- 
+
+
+> Para a primeira entrega, a metodologia proposta deve esclarecer:
+> * Qual(is) base(s) de dado(s) o projeto pretende utilizar, justificando a(s) escolha(s) realizadas.
+> * Quais abordagens de modelagem generativa o grupo já enxerga como interessantes de serem estudadas. 
+> * Artigos de referência já identificados e que serão estudados ou usados como parte do planejamento do projeto
+> * Ferramentas a serem utilizadas (com base na visão atual do grupo sobre o projeto).
+> * Resultados esperados
+> * Proposta de avaliação dos resultados de síntese
+
+## Cronograma
+> Proposta de cronograma. Procure estimar quantas semanas serão gastas para cada etapa do projeto.
+
+## Referências Bibliográficas
+> Apontar nesta seção as referências bibliográficas adotadas no projeto.
+
+
+-----------------------------------------------------------------------------------------------------------------
+
 # Repositório para o projeto de  IA376 - Deep Learning aplicado em sinais de EEG
 
 # Tutorial - Como usar git/github
