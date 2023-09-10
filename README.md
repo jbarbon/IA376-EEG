@@ -1,5 +1,5 @@
-# Estudo de Caso: Síntese de Dados EEG por meio de Redes Generativas Adversárias para Aplicações em Interfaces Cérebro-Computador
-# Case Study: EEG Data Synthesis through Generative Adversarial Networks for Brain-Computer Interface Applications
+# Síntese de Dados de EEG por meio de Redes Generativas Adversárias
+# EEG Data Synthesis through Generative Adversarial Networks
 
 ## Apresentação
 
